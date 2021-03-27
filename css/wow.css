@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.login{
+    margin: 30px 30px;
+    font-size: 30px;
+    display: flex;
+}
+
+#loginBtn{
+    margin: 30px 30px;
+    font-size: 15px;
+    size: 50px;
+    display: flex;
+}
+
+.noBullets{
+    list-style-type:none;
+}
+
+.listBtn{
+    margin: 50px 0px 0px 100px;
+    font-size: 15px;
+    height: 50px;
+    width: 500px;
+}
+
+.searchBar{
+    margin: 50px 0px 7px 5px;
+    font-size: 15px;
+    height: 35px;
+    width: 500px;
+}
+
+.searchBtn{
+    margin: 50px 0px 7px 100px;
+    font-size: 15px;
+    height: 35px;
+    width: 75px;
+}
+
+.txtarea{
+    margin: 0px 0px 0px 100px;
+    font-size: 15px;
+    width: 584px;
+    height: auto;
+}
+
+.container{
+    width:auto;
+}
+
+.view{
+    margin: 0px 0px 25px;
+    display: flex;
+}
+
+.txtAreaStudents{
+    position: absolute; 
+    left:250px;
+    height: 30px;
+    width: 350px;
+}
+
+.txtAreaProfessors{
+    position: absolute; 
+    left:250px;
+    height: 30px;
+    width: 350px;
+}
